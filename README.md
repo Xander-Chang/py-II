@@ -1,18 +1,18 @@
 ## py-II 資料分析應用
-### 1.104-hrbank: 
+### 1. 104-hrbank: 
 * 在104的職缺搜尋頁面，取得'公司名稱'、'職務名稱'等基本資料內容
 * 存成 json檔案
 </hr>
 
-### 2.PTT-gossip:
+### 2. PTT-gossip:
 * requests 、BeautifulSoup 的運用練習
-* 在ptt-beauty 中，用取得網友分享的圖片，存到資料夾
-* 在ptt-gossip 取得文章數量，列出文章編號/標題/作者/連結/推文數量，存成json檔案
+* 在 ptt-beauty 中，用取得網友分享的圖片，存到資料夾
+* 在 ptt-gossip 取得文章數量，列出文章編號/標題/作者/連結/推文數量，存成json檔案
 * pandas、matplotlib 製圖練習
-* 在ptt-gossip 取得日期、文章數，將數據製作成直條圖，可以明顯比較不同日期間的文章數量。
+* 在 ptt-gossip 取得日期、文章數，將數據製作成直條圖，可以明顯比較不同日期間的文章數量。
 </hr>
 
-### 3.line-sticker
+### 3. line-sticker
 * 取得賴的表情包圖片，並存檔
 </hr>
 
@@ -22,4 +22,12 @@
 </hr>
 
 ### 5. sqlite3
-* 
+* 小型資料庫 sqlite3 會員系統的設定練習
+* 可以顯示、新增、刪除會員資料後，離開系統
+</hr>
+
+### 6. youbike-open-data
+* 取得新北市政府所公開的youbike 站點基本資料
+* 將 json檔案，從 json字串轉換為 python物件，在存檔為 CSV檔
+* 運用 pandas 讀取 csv檔案，做資料分析
+
