@@ -2,7 +2,7 @@
 ### 1. 104-hrbank: 
 * 在104的職缺搜尋頁面，取得'公司名稱'、'職務名稱'等基本資料內容
 * 存成 json檔案
-</hr>
+<hr></hr>
 
 ### 2. PTT-gossip:
 * requests 、BeautifulSoup 的運用練習
