@@ -10,3 +10,5 @@
 * 在ptt-gossip 取得文章數量，列出文章編號/標題/作者/連結/推文數量，存成json檔案
 * pandas、matplotlib 製圖練習
 * 在ptt-gossip 取得日期、文章數，將數據製作成直條圖，可以明顯比較不同日期間的文章數量。
+</hr>
+### 3.line-sticker
