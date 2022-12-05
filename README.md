@@ -11,4 +11,6 @@
 * pandas、matplotlib 製圖練習
 * 在ptt-gossip 取得日期、文章數，將數據製作成直條圖，可以明顯比較不同日期間的文章數量。
 </hr>
+
 ### 3.line-sticker
+* 
